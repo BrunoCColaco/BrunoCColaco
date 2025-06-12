@@ -3,5 +3,5 @@
 </h1>
 
 ### A recent master's graduate in Computer Science and Multimedia Engineering with a strong interest in AI and a passion for developing practical, user-oriented software.
-- 🌱 I’m currently developing **[Trip planner app](https://github.com/BrunoCColaco/BrunoCColaco/SmartWay)**
+- 🌱 I’m currently developing a **[trip planner app.](https://github.com/BrunoCColaco/SmartWay)**
 
